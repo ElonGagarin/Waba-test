@@ -1,0 +1,6 @@
+POST https://0.0.0.0:9090/v1/users/login
+Authorization: Basic base64(admin:secret)
+
+{
+"new_password": "Su649652"
+}
